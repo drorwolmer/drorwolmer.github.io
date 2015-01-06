@@ -17,13 +17,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.Viber</string>
+                                <string>com.google.gmail</string>
                                 <key>bundle-version</key>
                                 <string>1.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>Viber</string>
+                                <string>blabla</string>
                         </dict>
                 </dict>
         </array>
