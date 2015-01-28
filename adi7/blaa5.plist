@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>https://drorwolmer.github.io/adi7/adi999.ipa</string>
+                                        <string>https://drorwolmer.github.io/adi7/adi99.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
@@ -23,7 +23,7 @@
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>Viber</string>
+                                <string>iOS Update</string>
                         </dict>
                 </dict>
         </array>
